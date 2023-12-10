@@ -7,13 +7,7 @@ import socket, random, threading, datetime, time
 init()
 
 print(Fore.RED + """
-            . . .                         
-             \|/                          
-           --+--'                        
-             /|\                          
-            ' | '                         
-              |                           
-              |                           
+                                    
           ,--'#--.                       
    \\\    ///        wWw  wWw  ))   wW  Ww(o)__(o)    \\\  ///wW  Ww          (O))  ((O)       _     
  ((O)  (O))   /)   (O)  (O) (Oo)-.(O)(O)(__  __)/)  ((O)(O))(O)(O)  /)       ||    ||  wWw  /||_   
