@@ -27,9 +27,10 @@ python3 mauritaniacracked.py
 
 ## Author
 - Mauritania Coder
-- GitHub: [github.com/mauritaniacoder](https://github.com/mauritaniacoder)
+- GitHub: [github.com/mauritaniacoder]([https://github.com/mauritaniacoder99/])
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+- EMAIL: mauritaniacoder@gmail.com
 
